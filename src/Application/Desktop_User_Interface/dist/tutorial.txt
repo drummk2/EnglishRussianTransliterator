@@ -1,0 +1,18 @@
+How To Navigate
+===============
+- By pressing a button in the dropdown menu at the top of each window,
+a pop-up window will appear corresponding to whatever was pressed.
+- 'Tutorial' will bring up this window that will provide you with the
+information necessary to use this application.
+
+How To Transliterate
+====================
+- If you wish to transliterate something from English into Russian, simply
+type your message into the first box with the message 'Enter English Here'
+beside it. Then press the 'Transliterate' button or the Enter key and the 
+transliteration process will begin.
+- Due to some complexity issues, this process will take about 45 seconds to
+complete. once this process has finished, you will be presented with the
+Russian transliteration of your message in the other textbox.
+- Also, if you ever wish to clear both textboxes, just press the 'Clear'
+button or use the Ctrl-c shortcut and it will be done for you.
