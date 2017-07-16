@@ -1,6 +1,6 @@
 ## Project Description
 
-The main goal for this project is to implement an automatic transliteration system that can
+This is an automatic transliteration system that can
 
 convert a proper noun from English to Russian. Two examples are given below.
 
@@ -17,3 +17,5 @@ I believe that the users of this piece of software will be language learners. Mo
 Russian speakers who are learning English or native English speakers who are learning
 
 Russian.
+
+Note: This system is targeted towards Linux users.
