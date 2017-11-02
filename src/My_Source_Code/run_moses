@@ -1,8 +1,0 @@
-# Author: Kieron Drumm 
-# Date: April 9th 2017 
-# As I encountered some difficulties when trying to run this command using the python subprocess module 
-# I instead decided to have my Python code run a separate command that would in turn run this command. 
-
-#!/bin/sh 
-
-../../External_Tools/moses -f ../../Models/Trans_Model/train/model/moses.ini < $1 > $2
