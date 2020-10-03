@@ -1,3 +1,5 @@
 *.c linguist-detectable=false
+
 *.cats linguist-detectable=false
+
 *.cy linguist-detectable=false
